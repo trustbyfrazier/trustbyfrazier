@@ -16,7 +16,11 @@
 
 ## 📍 About Us
 
-> **Trust by Frazier** is a no-BS, public-first Web3 audit studio focused on empowering builders with transparency, security, and community trust.
+> **Trust by Frazier**  is a Web3-native security brand delivering high-impact smart contract audits, blockchain consulting, and decentralized application (dApp) development support. Rooted in distributed ledger technology (DLT) expertise and driven by a mission to protect users, the firm exists to harden code, expose risk, and build long-term confidence in crypto ecosystems.
+With a remote-first team operating globally, Trust by Frazier has secured smart contracts and infrastructure across major chains including **Ethereum, Binance Smart Chain, Solana, Polygon, and Avalanche**. From pre-deployment audits to post-launch monitoring, every engagement is tailored to project-specific architecture and threat models — because security is never one-size-fits-all.
+Whether for DeFi protocols, NFT marketplaces, or DAO tooling, our audit process combines manual code review, automated scanning, SWC compliance checks, and rigorous attack vector testing. This layered approach helps teams identify vulnerabilities before malicious actors can.
+To date, Trust by Frazier has helped secure **millions in TVL across multiple protocols**, working with both stealth-mode builders and public-facing teams. All findings are delivered in clear, actionable formats designed for both devs and stakeholders to understand — no fluff, no fog.
+The firm maintains a zero-compromise stance on security and operates with full transparency, publishing select audits on-chain or via GitHub for community verification. Our goal is simple: **raise the standard for blockchain security, one contract at a time**.
 
 ---
 
