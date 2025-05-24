@@ -87,5 +87,38 @@ The firm maintains a zero-compromise stance on security and operates with full t
 <img src="https://img.shields.io/badge/Remix%20IDE-Manual%20Auditing-lightgrey?style=flat-square&logo=ethereum" />
 <img src="https://img.shields.io/badge/Solhint-Linter-orange?style=flat-square&logo=codefactor" />
 
+---
+
+## 🧠 How We Work
+
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/50/document--v1.png" />
+  <br/><strong>1. Preparation</strong><br/>
+  Provide audit-ready code and documentation
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/50/secured-letter--v1.png" />
+  <br/><strong>2. Communication</strong><br/>
+  Real-time chat via Telegram/Discord or email
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/50/search--v1.png" />
+  <br/><strong>3. Audit</strong><br/>
+  Manual + automated review of all contract code
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/50/settings--v1.png" />
+  <br/><strong>4. Fixes</strong><br/>
+  You apply our suggestions or consult with us
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/50/report-card.png" />
+  <br/><strong>5. Report</strong><br/>
+  Final public report with all verified fixes
+</p>
 
 
