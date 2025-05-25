@@ -48,7 +48,7 @@ The firm maintains a zero-compromise stance on security and operates with full t
 
 ## 🔍 Public Audits
 
-- [Chiliz v1.0 Audit Report (PDF)](.Chiliz-Audit-Report-v1.0.pdf)
+- [Chiliz v1.0 Audit Report (PDF)](.trust-by-frazier-public-audits/blob/main/Chiliz-Audit-Report-v1.0.pdf)
 
 
 ---
