@@ -44,11 +44,8 @@ The firm maintains a zero-compromise stance on security and operates with full t
 - 👨‍💻 Frazier — Founder & Lead Auditor  
 - 👥 +5 Collaborators (on-call for smart contracts, bots, Discord mods)
 
----
 
-## 🔍 Public Audits
 
-- [Chiliz v1.0 Audit Report (PDF)](.trust-by-frazier-public-audits/blob/main/Chiliz-Audit-Report-v1.0.pdf)
 
 
 ---
