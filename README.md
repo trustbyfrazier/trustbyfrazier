@@ -1,124 +1,69 @@
 <p align="center">
- <img src="https://github.com/user-attachments/assets/35003120-e42c-4420-9844-7c3419ff183b" width="100%" height="500px" />
-
+  <img src="https://c.tenor.com/eQ8_EOeiaZcAAAAC/tenor.gif" alt="Header GIF">
 </p>
 
+# 🎼 Frazier? Software Composer | Builder of Seamless Systems
 
+I don’t just write software — I **compose** it.  
+Every feature, every interaction, every moving part fits together like notes in a symphony.  
+The result? **Clean, functional, and beautiful software**, delivered in record time.
 
-<h1 align="center">Trust by Frazier</h1>
-
-<p align="center">
-  🔐 <strong>Web3 Security Audits</strong> | 🧠 <strong>Smart Contract Reviews</strong> | 🕵️‍♂️ <strong>Social Engineering Tests</strong><br/>
-  Serving small projects & big founders with <em>transparent, public-first audits.</em>
-</p>
+Where others get lost in the noise of complexity, I focus on **flow** — knowing exactly which piece to place next so the final product just works.
 
 ---
 
-## 📍 About Us
+## 🛠 My Method
 
-> **Trust by Frazier**  is a Web3-native security brand delivering high-impact smart contract audits, blockchain consulting, and decentralized application (dApp) development support. Rooted in distributed ledger technology (DLT) expertise and driven by a mission to protect users, the firm exists to harden code, expose risk, and build long-term confidence in crypto ecosystems.
-With a remote-first team operating globally, Trust by Frazier has secured smart contracts and infrastructure across major chains including **Ethereum, Binance Smart Chain, Solana, Polygon, and Avalanche**. From pre-deployment audits to post-launch monitoring, every engagement is tailored to project-specific architecture and threat models — because security is never one-size-fits-all.
-Whether for DeFi protocols, NFT marketplaces, or DAO tooling, our audit process combines manual code review, automated scanning, SWC compliance checks, and rigorous attack vector testing. This layered approach helps teams identify vulnerabilities before malicious actors can.
-To date, Trust by Frazier has helped secure **millions in TVL across multiple protocols**, working with both stealth-mode builders and public-facing teams. All findings are delivered in clear, actionable formats designed for both devs and stakeholders to understand — no fluff, no fog.
-The firm maintains a zero-compromise stance on security and operates with full transparency, publishing select audits on-chain or via GitHub for community verification. Our goal is simple: **raise the standard for blockchain security, one contract at a time**.
-
----
-
-### 🧾 Mission
-🚀 Build trust in decentralized ecosystems by securing projects from the ground up.
-
-### 🛡️ Services We Offer
-- 🔍 **Smart Contract Audits** (manual + tool-assisted)
-- 🕵️‍♂️ **Social Engineering Tests** (Telegram, Discord, emails)
-- 🧹 **Community Sweep** (moderation risk checks, fake admins, bots)
-- 🛠️ **Dev Hygiene Review** (GitHub structure, metadata, renounced ownership, etc.)
-- 🔧 Custom requests welcome
-
-### 🌍 Location
-🌐 Fully remote. Operating globally. 
-
-### 💼 Clients
-🪙 DeFi protocols, meme coins, Web3 dApps, small launchpads, NFT tools, all project.
-
-### 🧑‍🤝‍🧑 Team
-- 👨‍💻 Frazier — Founder & Lead Auditor  
-- 👥 +5 Collaborators (on-call for smart contracts, bots, Discord mods)
-
-
-
-
+- **Idea to Launch in Record Time** — from concept to live deployment without wasted motion.  
+- **Golden Path Execution** — a build order that removes chaos and keeps progress smooth.  
+- **Full Stack Mastery** — frontend, backend, auth, security, and deployment, woven into a single, seamless release.  
+- **No Fluff, Just Results** — purposeful architecture, minimal distractions, maximum impact.  
 
 ---
 
-## 🔗 Connect with Trust by Frazier
+## 🚀 My Superpowers
 
-<p align="center">
-  <a href="https://linktr.ee/trustbyfrazier">
-    <img src="https://img.shields.io/badge/🌐_Website-Linktree-blueviolet?style=flat-square" />
-  </a>
-  <a href="https://x.com/Frazierxenon?t=2bcTtiPUn3DSWFBIqtVCQg&s=09">
-    <img src="https://img.shields.io/badge/🐦_Twitter-@Frazierxenon-1DA1F2?style=flat-square&logo=twitter" />
-  </a>
-  <a href="https://github.com/trustbyfrazier/trust-by-frazier-public-audits">
-    <img src="https://img.shields.io/badge/🧠_Audit_Repo-Public%20Audits-24292e?style=flat-square&logo=github" />
-  </a>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnyHSKa8xeAW4Gof0UmxYJ-MOLEQOvkFlF_Q_4rS-J_E02_g/viewform?usp=preview">
-    <img src="https://img.shields.io/badge/📬_Request_Audit-Google_Form-brightgreen?style=flat-square&logo=googleforms" />
-  </a>
-</p>
+- **Architect’s Vision** → See the end product before it exists.  
+- **Flawless Sequencing** → Build in the order that eliminates bottlenecks.  
+- **Rapid Problem Solver** → Untangle complexity and keep momentum high.  
+- **Stack Versatility** → From modern frameworks to classic foundations — I adapt instantly.  
 
 ---
 
-## 👨‍💻 Top Languages
+## 🎯 My Promise
 
-<img src="https://img.shields.io/badge/JavaScript-Dynamic%20Web-yellow?style=flat-square&logo=javascript" />
-<img src="https://img.shields.io/badge/TypeScript-Typed%20JavaScript-blue?style=flat-square&logo=typescript" />
-<img src="https://img.shields.io/badge/HTML-Semantic%20Web-orange?style=flat-square&logo=html5" />
-<img src="https://img.shields.io/badge/Java-OOP-red?style=flat-square&logo=java" />
-<img src="https://img.shields.io/badge/Go-High%20Performance-00ADD8?style=flat-square&logo=go" />
-
+You bring the vision, I’ll deliver the product — deployed, documented, and ready to shine.  
+I turn **“We should build this”** into **“It’s live, try it now”** before momentum fades.
 
 ---
 
-## 🧠 Tools of the Trade
+## 💡 Philosophy
 
-<img src="https://img.shields.io/badge/Slither-Ethereum%20Static%20Analysis-purple?style=flat-square&logo=ethereum" />
-<img src="https://img.shields.io/badge/MythX-Formal%20Verification-blue?style=flat-square&logo=solidity" />
-<img src="https://img.shields.io/badge/Remix%20IDE-Manual%20Auditing-lightgrey?style=flat-square&logo=ethereum" />
-<img src="https://img.shields.io/badge/Solhint-Linter-orange?style=flat-square&logo=codefactor" />
+> “I know everything and nothing — but I always know what to do next.”
 
 ---
 
-## 🧠 How We Work
+![Bottom GIF](https://your-gif-url-here.com/bottom.gif)
 
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/document--v1.png" />
-  <br/><strong>1. Preparation</strong><br/>
-  Provide audit-ready code and documentation
-</p>
+---
 
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/secured-letter--v1.png" />
-  <br/><strong>2. Communication</strong><br/>
-  Real-time chat via Telegram/Discord or email
-</p>
+## ⚡ Tech & Tools
 
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/search--v1.png" />
-  <br/><strong>3. Audit</strong><br/>
-  Manual + automated review of all contract code
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/settings--v1.png" />
-  <br/><strong>4. Fixes</strong><br/>
-  You apply our suggestions or consult with us
-</p>
+---
 
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/report-card.png" />
-  <br/><strong>5. Report</strong><br/>
-  Final public report with all verified fixes
-</p>
+### 📈 This Week I Spent My Time On
 
+| Language | Time Spent |
+|----------|------------|
+| C++      | 5 hrs 56 mins |
+| Vue.js   | 4 hrs 1 min |
+| JavaScript | 1 hr 25 mins |
+| Markdown | 46 mins |
+| YAML     | 30 mins |
 
